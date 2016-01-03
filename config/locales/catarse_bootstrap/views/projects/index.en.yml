@@ -1,0 +1,70 @@
+en:
+  projects:
+    index_header:
+      subtitle: Finance projects collaboratively and become part of something larger. Promote a collective catharsis ! You're the missing piece in this story.
+      title: Make it happen in the projects that you believe
+    index:
+      title: 'Catharsis'
+      back_a_project: 'Support a project'
+      banner_before: 'Tire '
+      banner_words:
+        0: 'dreams'
+        1: 'discos'
+        2: 'exhibitions'
+        3: 'research'
+        4: 'carnivals'
+        5: 'photographs'
+        6: 'theater performances'
+        7: 'documentaries'
+        8: 'books'
+        9: 'shows'
+        10: 'passions'
+        11: 'meetings'
+        12: 'music'
+        13: 'products'
+        14: 'attitudes'
+        15: 'movies'
+        16: 'comics'
+        17: 'ideas'
+      banner_after: ' paper'
+      see_all: 'See all'
+      near_you: 'Near you'
+      recents: Recents
+      blog: Blog Catharsis
+      expiring: In the final stretch
+      recommended: Recommended
+      banner_subtitle: 'Music, comics , cinema, social impact , technology and more. Meet , inspire and support projects.'
+      box:
+        by: by
+        when: in
+      banner: "Meet the search"
+      explore: "Explore projects"
+      links:
+        channels: "Discover the Canal Wings"
+        recommended: "Discover projects recommended"
+        expiring: "Discover projects on the home stretch"
+        recents: "Discover recent projects"
+        near: "Discover projects near you"
+      sidebar:
+        titles:
+          blog: blog
+          facebook: "already likes our face ?"
+          newsletter: "Subscribe to our news"
+          faq: "okay with doubt?"
+          schedule: agenda
+        placeholders:
+          email: "Type your e-mail"
+        buttons:
+          newsletter: Submit
+      sections:
+        near:
+          title: 'Near Me'
+        recommended:
+          title: 'Recommended'
+        expiring:
+          title: "In the final stretch"
+        recents:
+          title: "Recents"
+        channels:
+          title: 'Channel Handles'
+
