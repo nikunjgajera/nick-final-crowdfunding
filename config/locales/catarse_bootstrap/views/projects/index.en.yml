@@ -6,7 +6,7 @@ en:
     index:
       title: 'Catharsis'
       back_a_project: 'Support a project'
-      banner_before: 'Tire '
+      banner_before: 'Take '
       banner_words:
         0: 'dreams'
         1: 'discos'
@@ -26,7 +26,7 @@ en:
         15: 'movies'
         16: 'comics'
         17: 'ideas'
-      banner_after: ' paper'
+      banner_after: ' role'
       see_all: 'See all'
       near_you: 'Near you'
       recents: Recents
