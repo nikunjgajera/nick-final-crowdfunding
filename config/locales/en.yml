@@ -331,6 +331,7 @@ en:
       submit: Send your project
       profile: "My profile"
       account: "My account"
+      search: Search Project
     user:
       logout: Logout
       my_credits: "My credit"
