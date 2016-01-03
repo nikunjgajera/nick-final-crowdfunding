@@ -1,0 +1,61 @@
+en:
+  formtastic:
+    hints:
+      reward:
+        description: Describe your reward in a way to arouse people's interest to support the project . Do not be shy!
+        maximum_contributions: If your reward is limited , please as many people 
+        minimum_value: This is minimum support value to choose this reward .
+        days_to_delivery: Tell how many days , after the success of the project you plan to give this reward
+        contribution:
+        credits: You have <strong> %{credits} </strong> in credits and can support until this value without performing a new payment.
+        project:
+        about: Tell us a little about your inspiration to undertake the project , its
+          history and which will be delivered to the end . Be succinct and escape those formalities
+          notices. Nothing GOAL , BACKGROUND , TARGET ... Treat
+          your readers with something that moves with them and be very transparent about
+          the expectation about the project.
+        category: Before you submit your design , explore and be inspired by other projects
+          who visited the site .
+        first_contributions: For his campaign to succeed , it is essential to bring
+          Contact your nearest network. So , list here who you believe
+          which will be its first 20 supporters
+        goal: "It's important to remember that much of the support will come from people nearby
+         you (1st and 2nd level of relationship ) : <a href = ' http: //blog.catarse.me/sua-campanha-no-catarse-precisa-de-um-empurrazinho '
+          target = '_ blank '> Click here ! </a> Thus, to set the value you want
+          raise through catharsis is critical thinking in their ability to mobilize
+          at least 50 % of the value within your network of contacts. "
+        headline: Summarize in 140 characters your project. This phrase will be the first
+          contact of people with your project , even before seeing the video . Be
+          creative, transparent and straightforward :)
+        more_links: What will be the mobilization of channels used ? (Put links
+          such as Facebook, Twitter , Blogs ... everything that will help you release your
+          project)
+        name: The more direct the better. Leave to describe your project in About
+          and Video .
+        online_days: On average the projects are in the air for 40 days.
+        uploaded_image: Here you upload a picture (.jpg ) with 512x400 size .
+        video_url: The video is the centerpiece of the project. If you have not , you do not
+         You need to send ... But go already thinking about how to make a MATADOR video !
+        video_url_edit: Paste here the link of your video hosted on Vimeo or Youtube .
+    labels:
+      reward:
+        description: Description
+        minimum_value: Minimum value
+        days_to_delivery: Delivery forecast
+        maximum_contributions: Maximum supporters (optional )
+      contribution:
+        credits: I want to use my credits for this support.
+        anonymous: I want my support is anonymous.
+        value: How much you want to support ?
+        reward: Select your reward
+      project:
+        about: History of your project and will be used as the $ *
+        expires_at: How long to reach the minimum ? *
+        first_contributions: List of the first supporters *
+        goal: How much you want to raise ? (only numbers)*
+        headline: Catch phrase *
+        traffic_sources: How did you meet Catharsis ? *
+        more_links: Links list related to your project *
+        name: Project name *
+        video_url: Video
+
