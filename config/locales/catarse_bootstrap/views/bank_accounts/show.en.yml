@@ -1,0 +1,13 @@
+en:
+  bank_accounts:
+    show:
+      success: 'Your request was successful !'
+      success_detail: 'Send an email with transaction details and instructions on what to do if there is a problem in the process.'
+      review: 'Transaction Summary'
+      page-title: 'Successfully requested reimbursement'
+      value_label: 'Total value of reimbursement: %{value}'
+      agency_label: "Agency: %{content}"
+      bank_label: "Bank: %{content}"
+      account_label: "Account: %{content}"
+      owner_name_label: "Name: %{content}"
+      owner_document_label: "CPF: %{content}"

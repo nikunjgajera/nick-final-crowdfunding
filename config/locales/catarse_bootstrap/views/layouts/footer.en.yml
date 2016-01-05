@@ -1,0 +1,37 @@
+en:
+  layouts:
+    footer:
+      links:
+        jobs: Work with us
+        blog: Blog
+        contact: Contact
+        press: Press
+        discover: Explore projects
+        start: 'How does it work'
+        expiring: In the final stretch
+        facebook: Facebook
+        team: Our team <3
+        crowdfunding_stats: "Portrait FC Brazil 2013/2014"
+        faq: Help
+        guides: Guide of Directors
+        feedback: Feedback
+        github: Github
+        instagram: Instagram
+        near: Near Me
+        press: Press
+        privacy: Privacy policy
+        recents: Recents
+        recommended: Recommended
+        submit: Start your project
+        terms: Terms of use
+        twitter: Twitter
+        help_support: Support Center
+      texts:
+        copyleft: Made with love.
+      titles:
+        about: Help
+        contact: Welcome
+        newsletter: Subscribe to our news
+        sitemap: Browse
+        social: Social networks
+

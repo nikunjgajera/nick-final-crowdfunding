@@ -1,0 +1,9 @@
+en:
+  donations:
+    confirm:
+      'yes': Yes
+      'no': No
+      title: Confirms your donation for Catharsis ?
+      amount: You are making a donation %{amount}.
+      info1: Your money will be used to finance operations of catharsis and a lot of innovation that comes around in 2016 .
+      info2: Of course , you will get featured on a special page , which will launch soon with the list of supporters who do their best to spread the crowdfunding in Brazil !
