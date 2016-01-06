@@ -62,7 +62,7 @@ en:
         select_boleto: ' To continue, please select '
         submit:
           credits: Confirm
-          moip:Make payment by MoIP
+          moip: Make payment by MoIP
         subtitle: These data will be transmitted to the organizer of the project.
         title: Complete and verify the data to make the payment .
         you_are_about_html: ' You are about to join the group %{link}.'
