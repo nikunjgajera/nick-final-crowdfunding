@@ -71,7 +71,7 @@ en:
         failed: "I is not achieved the goal :"
         good_luck: "Good luck !"
       successful:
-        title: "%{name}, Celebrate you deserve! "
+        title: "Celebrate you deserve! "
         subtitle_html: "Was your project a success and now it's time to start working relationship with Donors ! Special Attention to the awards. You promis ? Put it back ! Do not stop to look at the post- project session %{link1} and to inform on %{link2}. "
         header1: "And remember : transparency is essential. "
         transparent_html: "Maintain donor information is to maintain a happy donor. Even if you tell a fault or against time. Donors are happy %{link} .So, use ( always in moderation) new tabs . All what you write is sent directly by email to your donors . You will already start giving rewards ? In the tab \ " reports \" downloading information for you to make the management of the awards your project . "
