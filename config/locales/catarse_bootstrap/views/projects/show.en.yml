@@ -56,7 +56,7 @@ fr:
       menu:
         panel_html: "& nbsp ; & nbsp; control Pannau"
         about: Sure
-        add_reward:Add reward
+        add_reward: Add reward
         comments: comments
         contributions: donations
         metrics: metrics
