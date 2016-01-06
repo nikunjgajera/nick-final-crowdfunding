@@ -1,0 +1,108 @@
+fr:
+  projects:
+    about_mobile:
+      by: 'by'
+      back: '< Return'
+    project_embed:
+      insert: 'Insert a widget on your site'
+    mobile_video:
+      read_more: "Read more"
+    metrics:
+      titles:
+        confirmed_by_day: 'Total donations confirm daily'
+        confirmed_amount_by_day: 'Total collected per day'
+        address_state: 'Total donations confirmed by the State'
+    reminder:
+      ok: 'OK! We will send you a reminder email 48 hours before the end of the campaign'
+      active_btn: ' Remind me to this project '
+      deactive_btn: 'I do not want to recall '
+    send_to_analysis: Your project has been sent to our team.
+    send_to_analysis_error: Error sending your project for analysis. Fill in all required fields.
+    push_to_online: Your project is online!
+    push_to_online_error: Error while posting your project. Fill in all required fields.
+    twitter:
+      take_a_look: Discover the project %{name} No @ catarse
+    video_embed:
+      a_project_by_html: A draft  %{link} no
+    posts:
+      project_post:
+        exclusive: 'Exclusive article for donors.'
+        unavailable: This new feature is only available for donors.
+        contribute: supports
+        unavailable_contribute: See this project.
+        destroy: Remove the novelty
+        destroy_confirmation: do you want to remove this novelty ?
+      new:
+        notice: Your new was sent successfully!
+        comment: Text on your new
+        exclusive: Visible only for donors
+        submit: Send novelty
+        title: Title of your new
+        warning: We remind you that all novelty items are directly sent by mail to
+          your donors . Proofread before you send.
+    project_reports:
+      all_contributions_without_reward: Download the report from all donors
+        who have no reward select
+      link_reports_confirmed: Download the report of all confirmed donors
+      link_reports_waiting_confirmation: Download the report from all donors
+        Printed with boleto
+      link_reward: Download the report donor whose reward for %{value}
+    project_about:
+      embed: < embed >
+      embed_title: Stir this project to your site
+      active_btn: ' Recall'
+      deactive_btn: ' reminder activated'
+    show:
+      menu:
+        panel_html: "& nbsp ; & nbsp; control Pannau"
+        about: Sure
+        add_reward:Add reward
+        comments: comments
+        contributions: donations
+        metrics: metrics
+        edit: Edit
+        reports: Relations
+        posts: noveltyé
+    project_main:
+      post_call: 'Tll novelty published on Catarse is sent directly by mail to people who have already supported your project and also remains available on the website. You can decide to let the public or visible only to your donors this tab.'
+      send_post: 'Write novelty'
+      share: "Share"
+      tweet: "tweet"
+      contribute_project:
+        display_status:
+          approved: "This project has already been approved by Catarse . Basically it will be online and will receive donations."
+          reached_goal: "This project will be crowned with success in financial in %{date}"
+          not_reached_goal: "This project will be funded if at least %{goal} to be reached %{date}"
+          failed: "This project did not meet its minimum %{goal}until %{date} and was not funded"
+          rejected: "This project was not accepted . It is no longer possible to make a donation"
+          in_analysis: " This project is analyzing court and is not yet open to receive donations. "
+          successful: " This project was a success and was finance %{date}"
+          waiting_funds: "The deadline for funding the project is closed . We await confirmation of last payment."
+          draft: "This project is only a concept at the moment and can receive donations."
+        submit: Support this project
+      project_by: project
+      funding_period: Campaign period
+      project_header:
+        subtitle_html: "A draft %{link}"
+        without_city: "A draft"
+        with_city: "A draft%{category_name} by %{author}to %{city}"
+      menu:
+        about: Sure
+        add_reward: Add a reward
+        comments: comments
+        contributions: donations
+        metrics: metrics
+        edit: Edit
+        reports: Relations
+        posts: News
+      no_rewards_warning: Do not travel more ! Think how will you deliver and put everything
+        this in the budget. Promised?!
+      no_rewards_warning_title: Creez here your rewards
+      contribution_states:
+        confirmed: "Confirmed"
+        pending: "Waiting"
+      sidebar:
+        contributions: donations
+        goal: achieved with %{total}
+
+

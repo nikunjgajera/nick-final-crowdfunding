@@ -1,0 +1,32 @@
+en:
+  projects:
+    new:
+      page-title: "Start your project"
+
+      faq:
+        titles:
+          support: "Support"
+          know_more: "Know more"
+
+        links:
+          criteria: "Selection criteria"
+          suport_central: "Support Centre"
+          support_contact: "Contact us"
+          how_it_works: "How Catarse ?"
+          money: "How will I receive the argent?"
+          selection: "How are the projects selected ?"
+          all_or_nothing: "WHY all or nothing?"
+
+      form:
+        blocks:
+          first:
+            title: "Welcome!"
+            description: "Fill out the information below to start designing your project."
+
+        info:
+          permalink: https://www.catarse.me
+          goal: €
+          online_days: days
+
+        submit: "Save and Continue"
+

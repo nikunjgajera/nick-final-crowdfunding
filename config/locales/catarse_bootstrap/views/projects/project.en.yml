@@ -1,0 +1,49 @@
+en:
+  projects:
+    project:
+      contributed: statement
+      reached: achieved
+      progress_html: "<span>%{percent}%</span> financial"
+      time_remaining_small_html:
+        one: "<div class='fontsize-smallest lineheight-tightest'>%{count} %{unit}</div> <div class='fontsize-smallest lineheight-tightest'>restante</div>"
+        other: "<div class='fontsize-smallest lineheight-tightest'>%{count} %{unit}</div> <div class='fontsize-smallest lineheight-tightest'>restantes</div>"
+      time_remaining_html:
+        one: "<span>%{count} %{unit}</span> rest"
+        other: "<span>%{count} %{unit}</span> other"
+      pledged_html: "<span>%{value}</span> statement"
+      display_status:
+        online: 'online'
+        expired: "finalized"
+        rejected: "refused"
+        failed: "unfunded"
+        successful: funded
+        approved: approve
+        reached_goal: funded
+        waiting_confirmation: waiting
+        waiting_funds: waiting
+        not_reached_goal: waiting
+        draft: "draft"
+        in_analysis: "analysis"
+    card:
+      by: for
+      remaining:
+        one: "rest"
+        other: "other"
+      contributed: statement
+      reached: achieved
+      progress_html: "<span>%{percent}%</span> funded"
+      time_remaining_html:
+        one: "<span>%{count} %{unit}</span> rest"
+        other: "<span>%{count} %{unit}</span> other"
+      pledged_html: "<span>%{value}</span> statement "
+      display_status:
+        expired: "finalized"
+        rejected: "rejected"
+        failed: "Non- capitalized"
+        successful: "successful"
+        approved: approve
+        reached_goal: funded
+        waiting_funds: "Manda finished"
+        not_reached_goal: waiting
+        draft: "draft"
+        in_analysis: "analysis"

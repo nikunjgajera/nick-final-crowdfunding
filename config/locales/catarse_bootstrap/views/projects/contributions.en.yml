@@ -1,0 +1,100 @@
+en:
+  projects:
+    contributions:
+      no_estimate: "Unavailable"
+      you_selected: "You chose it!"
+      contribute_text:
+        credits_tab: my credits
+      checkout:
+        no_credits: "You do not have enough credits to make this donation."
+        success:  "Your gift has been successfully completed . thank you very much !"
+      contribution:
+        anonymous_contribution: anonymous Donor
+        anonymous_description: "You have chosen to remain anonymous"
+        no_reward: "This donor has not selected a reward"
+      selected_reward:
+        review_without_reward_html: "Your donation amounts to <strong>%{value}</strong>"
+        value: 'Donation Amount'
+        reward: 'award selected'
+        edit: 'Edit'
+      edit:
+        review_title: 'Complete and review your payment data'
+        review_subtitle: 'These data will be visible to the project creator'
+        delivery_address: 'Delivery address'
+        next_step: 'next stage'
+        payment_slip_disclaimer: "If the project is unsuccessful, we will refund your donation. The banking data returned here will be used for the reimbursement. "
+        review_errors_title : " Check the returned data "
+        review_errors: " Information is missing or were poorly completed , correct all the fields in red and please try again "
+        anonymous_confirmation_title: "Do you really want to make this donation anonymous ?"
+        anonymous_confirmation: "The amount of your donation will be revealed to anyone except the owner of the project. Only the tenderer will have access to this information, regardless of whether your investment is public or anonymous."
+        anonymous_contribution: "I want my gift to be anonymous"
+        form_labels:
+          user_another_card: "Use another credit card"
+          payment_card_number: 'Card number'
+          payment_card_flag: 'Mark'
+          payment_card_source: 'security code'
+          payment_card_source_short: 'CVC'
+          payment_card_date: 'Expiry date (mm / yyyy)'
+          payment_card_name: 'Name on credit card'
+          payment_card_installments: 'payments'
+        installment_with_tax: "Of no interest"
+        transaction_error: "Transaction refused , check your data or contact your bank for more information."
+        pagarme_warning_html: "Catarse is in test fase of a new way of payment that facilitate financial donations as well as potential donors refunds. Other additional information will be probably required in addition to those already mentioned in the Terms to support a project . For information or problems , contact us with this mail%{mailto}. Thank you."
+        payment_save_card: 'Register my credit card to facilitate future donations'
+        reward_sold_out: 'This award is no longer available. Enter a new donation.'
+        page-title: you support %{name}
+        credits_preview_html: "You possess <strong>%{credits}</strong> in credits to make this gift<strong>until 10/11</strong>, according to <a href='http://blog.catarse.me/simplificacao-dos-reembolsos-eo-fim-dos-creditos/ ' target =' blank __ '> novas regras </a> divulgadas pelo Catarse."
+        credits_submit: 'Make a payment'
+        credits_title: 'Payment by credit'
+        insufficient_credits: "You have % { credits } credits . This is not sufficient to make the payment , choose a different payment method."
+        choose_payment: "Choose payment method"
+        choose_payment_subtitle: "SECURE PAYMENT"
+        cpf: 'To continue, complete :'
+        credits_notice_html: 'This donation will be made with your credit. After confirmation , you will <strong>%{credits}</strong> credit to support another project'
+        live_in_brazil: I live in Brazil .( Uncheck if your support is international)
+        number_card: Card data
+        owner_card: Data card holder
+        payment_account: Payment with debit to your account
+        payment_boleto: Payment by boleto
+        payment_card: Payment by card
+        review_with_reward_html: 'You will give<strong>%{value}</strong>and you will receive the following rewards:'
+        select_account: ' You will be redirected to the website of your bank '
+        select_boleto: ' To continue, please select '
+        submit:
+          credits: Confirm
+          moip:Make payment by MoIP
+        subtitle: These data will be transmitted to the organizer of the project.
+        title: Complete and verify the data to make the payment .
+        you_are_about_html: ' You are about to join the group %{link}.'
+      new:
+        page-title: ' You support %{name}'
+        title: Oohh yeah!
+        you_have_credits: "You possess <strong>%{credits}</strong> Realizer into appropriations for this operation. "
+        choose_reward: Choose the reward and the amount of operation
+        choose_value: Enter the amount of your operation
+        minimum_disclaimer: ' From R $ <span id="minimum-value">10</span> you are good ;)'
+        next_step: "Proofread and effctuez the pagamento"
+        no_reward:Thank you. I only want to help the project.
+      review:
+        PayPal: "PayPal"
+        MoIP: "MoIP"
+        Credits: 'Crédits'
+        error: Ooops . Error validating your operation. try again.
+      show:
+        follow: 'following'
+        follow_category: 'Like the category % { category} ? You can receive notifications in your mailbox when new projects come on the site!'
+        project_recommendations: 'Draft recommendations'
+        share: Share
+        tweet: Twitter
+        thank_you: 'Thank you!'
+        profile_link: 'Thanks to your profile'
+        thank_you_text_html: ' You are part of goupe : % { total } pessoas that querem tirar link1 } { % o papel do ! You will receive confirmation by email when the payment will be made. You can also track the status of your project holder % { link2 } . Share your carrier and increase the chances that the project lead !'
+        header_subtitle: "Without you , the project might have been unlucky . Welcome to the team !"
+        header_title: Thank you very much! : D
+        moip_message: Checking your transaction is processing your yard and MoIP code is " % { code}″.<br> If you have any questions regarding the transaction , please contact MoIP . An email will be sent when the payment is accepted .
+        recommended_projects: ' These projects could also interest you:'
+        text_subtitle: Recommend to everyone around that you just made
+        text_title_html: You are part of the group that does everything for projects %{link}
+          lead .
+        title: thank you very much
+

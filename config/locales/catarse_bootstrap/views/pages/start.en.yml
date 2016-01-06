@@ -1,0 +1,27 @@
+en:
+  pages:
+    start:
+      page-title: " Catarse ? How it works"
+      title: "Finance your project together"
+      submit: "Start your project"
+      learn-more: "Learn more"
+      header:
+        people: "People have already supported on at least 1 project Catarse"
+        success: "Many projects have already been financed Catarse"
+        money: "The list of donations to projects here"
+      start:
+        title: "Start the project"
+        content: "You have to start somewhere. A first step to turn your idea into a project and fund collectively is to register on the site Catarse . We will be there to help you achieve it."
+        link: "Read more about the launch of a project, the first step"
+      people:
+        title: "Design and Planning"
+        content: "Planning a good campaign is a decisive factor for the success of their collective funding. We provide you materials to help you provision!"
+        link: 'How many donors do you need'
+      work:
+        title: "All or nothing"
+        content: "Whoever sets the fundraising goal and time of the campaign is you. Choose between 1-60 days to complete your research campaign donors . If your financial goal is reached, you will stay with these amounts. But if this is not the case , donors will receive back their gifts. We charge a 13% tax on the total collected but only on projects that have reached or exceeded their target."
+        link: 'Get advice for your success on Catarse'
+      time:
+        title: "Mobilize donors"
+        content: "Call for your campaign and take care of your donors! They are the strength of your project and those who will actually determine the success or not of your campaign ! Catarse is a way to get closer to people who like your work."
+        link: 'Knowing how the tax helps maintain Catarse'
