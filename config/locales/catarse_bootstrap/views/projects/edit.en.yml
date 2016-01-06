@@ -76,7 +76,7 @@ en:
         header1: "And remember : transparency is essential. "
         transparent_html: "Maintain donor information is to maintain a happy donor. Even if you tell a fault or against time. Donors are happy %{link} .So, use ( always in moderation) new tabs . All what you write is sent directly by email to your donors . You will already start giving rewards ? In the tab \ " reports \" downloading information for you to make the management of the awards your project . "
         header2: " Do not stop reading "
-                     rejected:
+      rejected:
         title: "%{name}, unfortunately it is not this time . "
         subtitle_html: "You send your project to analyze Catarse and we understand that it is not in agreement with the site profile . Have refused a project does not prevent you from sending new projects to revise or reformulate your current project . Talk with our customer service ! We recommend that you watch the %{link1} and the  %{link2}."
       online:
