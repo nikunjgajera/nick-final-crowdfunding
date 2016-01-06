@@ -74,7 +74,7 @@ en:
         choose_value: Enter the amount of your operation
         minimum_disclaimer: ' From R $ <span id="minimum-value">10</span> you are good ;)'
         next_step: "Proofread and effctuez the pagamento"
-        no_reward:Thank you. I only want to help the project.
+        no_reward: Thank you. I only want to help the project.
       review:
         PayPal: "PayPal"
         MoIP: "MoIP"
