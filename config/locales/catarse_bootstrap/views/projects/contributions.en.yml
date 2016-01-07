@@ -90,7 +90,7 @@ en:
         profile_link: 'Thanks to your profile'
         thank_you_text_html: ' You are part of goupe : % { total } pessoas that querem tirar link1 } { % o papel do ! You will receive confirmation by email when the payment will be made. You can also track the status of your project holder % { link2 } . Share your carrier and increase the chances that the project lead !'
         header_subtitle: "Without you , the project might have been unlucky . Welcome to the team !"
-        header_title: Thank you very much! : D
+        header_title: Thank you very much! :D
         moip_message: Checking your transaction is processing your yard and MoIP code is " % { code}″.<br> If you have any questions regarding the transaction , please contact MoIP . An email will be sent when the payment is accepted .
         recommended_projects: ' These projects could also interest you:'
         text_subtitle: Recommend to everyone around that you just made
