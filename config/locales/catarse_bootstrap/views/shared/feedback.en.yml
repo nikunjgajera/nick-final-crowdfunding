@@ -1,0 +1,17 @@
+en:
+  shared:
+    feedback:
+      button: 'Give feedback'
+      inputs:
+        submit: 'Send feedback'
+        close: 'Close'
+      placeholders:
+        email: 'Email'
+        text: 'Write your feedback'
+      texts:
+        title: "Give us the pleasure of his word!"
+        content: "In recent months we have been working day and night in a series of changes in the platform, which are detailed in this <a target='_blank' href='http://blog.catarse.me/os-passos-para-um-novo-catarse/' class='link-underline'>special post</a>. It would be awesome if we could hear from you what you are thinking of this transformation . <br> Release the verb!"
+        response:
+          title: "Wow! <br> thank you ;)"
+          content: "We value every feedback received. We can not answer each one individually, but listen carefully every criticism and suggestion. Your comment will be certainly very important in our journey and will help us continuously improve your experience here on Catarse."
+
