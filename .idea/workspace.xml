@@ -34,8 +34,8 @@
       <file leaf-file-name="terms_of_uses.en.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/locales/catarse_bootstrap/views/pages/terms_of_uses.en.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5436047">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.8895349">
+              <caret line="94" column="130" selection-start-line="94" selection-start-column="130" selection-end-line="94" selection-end-column="130" />
               <folding />
             </state>
           </provider>
@@ -95,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/config/locales/catarse_bootstrap/views/pages/terms_of_use.pt.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="325" selection-start-line="9" selection-start-column="325" selection-end-line="9" selection-end-column="325" />
+              <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -858,15 +858,15 @@
     <entry file="file://$PROJECT_DIR$/config/locales/catarse_bootstrap/views/pages/terms_of_use.pt.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="325" selection-start-line="9" selection-start-column="325" selection-end-line="9" selection-end-column="325" />
+          <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/locales/catarse_bootstrap/views/pages/terms_of_uses.en.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5436047">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.8895349">
+          <caret line="94" column="130" selection-start-line="94" selection-start-column="130" selection-end-line="94" selection-end-column="130" />
           <folding />
         </state>
       </provider>
