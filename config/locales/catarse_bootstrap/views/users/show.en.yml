@@ -8,7 +8,7 @@ en:
       single_project_created: " and has created one project"
       multiple_project_created: "and has created %{n_projects}projects"
     contribution_row:
-      anonymous:I want my support is not public
+      anonymous: I want my support is not public
       print_slip: Print billet
       slip_copy: Generate second via
       contributed_projects: "Projects supported"
